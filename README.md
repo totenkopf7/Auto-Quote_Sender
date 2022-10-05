@@ -5,4 +5,4 @@ This tool is able to automayically send random quotes every first day of the wee
 Add your email address, email password, and the desired person's email address and run the "main.py" file.
 
 # Note 
-If you use gmail to send emails consider turning "Less Secure Apps" option ON to be able to sign in automatically when running this tool.
+If you use Gmail mail service to send emails please go to this link first: https://accounts.google.com/displayunlockcaptcha to allow access and avoid login issues while running the program.
