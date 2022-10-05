@@ -1,4 +1,4 @@
-"# Auto Quote Sender" 
+# Auto Quote Sender
 This tool is able to automayically send random quotes every first day of the week, to whomever you want. However, you can modify the email text, and specify the day you want to send the quote on.
 
 # Usage
